@@ -1,6 +1,6 @@
 # poker-bot
 
-Final project for CS 364M. The environment for our Texas Hold 'Em DQN was cloned from [neuron poker](https://github.com/dickreuter/neuron_poker).
+Final project for CS 364M for Ebaad Imran, Aman Tewari, and Namila Rahmani. The environment for our Texas Hold 'Em DQN was cloned from [neuron poker](https://github.com/dickreuter/neuron_poker).
 
 ## Envrionment Setup
 - Install Python 3.11, I would also recommend to install PyCharm.
