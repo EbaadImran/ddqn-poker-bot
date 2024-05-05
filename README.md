@@ -36,10 +36,10 @@ options:
 ```
 
 ## Navigation
-- All code is run through [main](https://github.com/EbaadImran/poker-bot/blob/main/main.py)
-- To naviage to all agents in the project, see [agents](https://github.com/EbaadImran/poker-bot/tree/main/agents)
-- Our DDQN poker agent can be found in [agent_ebaad](https://github.com/EbaadImran/poker-bot/blob/main/agents/agent_ebaad.py)
-- To view our equity based agent we trained against, see [agent_consider_equity](https://github.com/EbaadImran/poker-bot/blob/main/agents/agent_consider_equity.py)
-- Our baseline for a randomized agent can be seen in [agent_random](https://github.com/EbaadImran/poker-bot/blob/main/agents/agent_random.py)
-- The modified Texas Hold 'Em environment can be seen [gym_env](https://github.com/EbaadImran/poker-bot/tree/main/gym_env)
-  - [env](https://github.com/EbaadImran/poker-bot/blob/main/gym_env/env.py) contains the environment itself
+- All code is run through [main](https://github.com/EbaadImran/ddqn-poker-bot/blob/main/poker-bot/main.py)
+- To naviage to all agents in the project, see [agents](https://github.com/EbaadImran/ddqn-poker-bot/tree/main/poker-bot/agents)
+- Our DDQN poker agent can be found in [agent_ebaad](https://github.com/EbaadImran/ddqn-poker-bot/blob/main/poker-bot/agents/agent_ebaad.py)
+- To view our equity based agent we trained against, see [agent_consider_equity](https://github.com/EbaadImran/ddqn-poker-bot/blob/main/poker-bot/agents/agent_consider_equity.py)
+- Our baseline for a randomized agent can be seen in [agent_random](https://github.com/EbaadImran/ddqn-poker-bot/blob/main/poker-bot/agents/agent_random.py)
+- The modified Texas Hold 'Em environment can be seen [gym_env](https://github.com/EbaadImran/ddqn-poker-bot/tree/main/poker-bot/gym_env)
+  - [env](https://github.com/EbaadImran/ddqn-poker-bot/blob/main/poker-bot/gym_env/env.py) contains the environment itself
